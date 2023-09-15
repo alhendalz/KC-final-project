@@ -7,7 +7,7 @@ from pywebio import config
 
 def app():
     put_html("""/
-             <img src="https://i.pinimg.com/750x/e8/0c/d7/e80cd70bc152a8da30d6741743bb14fb.jpg" alt="try goodies"
+             <img src="https://i.pinimg.com/750x/e8/0c/d7/e80cd70bc152a8da30d6741743bb14fb.jpgs" alt="try goodies"
              style="width: 900px , height: 200px">
             <h3 id='h3'>TRY GOODIES</h3>
              <p id='para'>WELCOME</p>
